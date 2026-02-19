@@ -8,7 +8,7 @@
 
 📍 Morocco  
 📧 elmahdi.chakouch@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/El-Mahdi-CHAKOUCH](https://www.linkedin.com/in/el-mahdi-chakouch-12a00a253))  
+🔗 [LinkedIn](https://www.linkedin.com/in/el-mahdi-chakouch-12a00a253)  
 🔗 [GitHub](https://github.com/mahdi-chk)
 
 </div>
