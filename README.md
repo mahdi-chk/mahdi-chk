@@ -113,3 +113,7 @@ Mon objectif est de concevoir des solutions intelligentes, robustes et orientée
 ### 🚀 "Transforming data into intelligence. Engineering systems that scale."
 
 </div>
+
+## ❤️ Merci d’être passé·e !
+
+N’hésite pas à explorer mes projets, **à laisser une étoile ⭐**, et à me contacter si tu veux collaborer ou partager des idées 💡!
