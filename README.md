@@ -1,104 +1,112 @@
 <div align="center">
 
 # 👨‍💻 EL MAHDI CHAKOUCH
+### Ingénieur / Développeur Full Stack | IA & LLMs (RAG)
 
-### AI Engineer | Data Science | Software Architecture
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;IA+%26+LLMs+%7C+RAG+%7C+Ollama;Angular+%2B+Node.js+%2B+Spring+Boot;Building+Secure%2C+Scalable+Systems" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Building+Scalable+Systems;Data-Driven+Decision+Making" />
-
-📍 Morocco  
+📍 Salé, Maroc  
 📧 elmahdi.chakouch@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/el-mahdi-chakouch-12a00a253)  
-🔗 [GitHub](https://github.com/mahdi-chk)
+🔗 [LinkedIn](https://www.linkedin.com/in/el-mahdi-chakouch-12a00a253) · [GitHub](https://github.com/mahdi-chk)
 
 </div>
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 À PROPOS
 
-Ingénieur en Informatique spécialisé en **Data Science & Machine Learning**,  
-avec une solide base en architecture logicielle et systèmes distribués.
+Ingénieur en Informatique et Réseaux (EMSI 2026), spécialisé en **Intelligence Artificielle (LLMs, RAG)** et **développement Full Stack**.
 
-Je combine :
+Je conçois des applications web complètes, sécurisées et performantes — du modèle de données à l'interface utilisateur — et j'intègre des solutions d'IA locale (Ollama, RAG) pour des cas d'usage métier concrets.
 
-- 🔬 Intelligence Artificielle & Modélisation
-- 📊 Exploitation & Analyse de Données
-- 🏗 Conception d’Architectures Scalables
-- 🔐 Sécurité & Performance des systèmes
+- 🤖 Intelligence Artificielle appliquée (RAG, Fine-Tuning, Prompt Engineering)
+- 🏗 Architecture Full Stack (Angular · Node.js · Spring Boot · Django)
+- 🔐 Sécurité applicative (JWT, RBAC, hachage)
+- ⚙️ Microservices & DevOps (Docker, CI/CD)
 
-Mon objectif est de concevoir des solutions intelligentes, robustes et orientées impact métier.
+Expérience de terrain acquise via plusieurs stages dans des institutions gouvernementales marocaines (Ministères de l'Investissement, de l'Économie et des Finances, et de la Justice).
 
 ---
 
 # ⚙️ TECH STACK
 
-## 🧠 Artificial Intelligence & Data
-
+## 🤖 Intelligence Artificielle & LLMs
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-- Machine Learning (Supervised / Regression / Classification)
-- Deep Learning (CNN, EfficientNet)
-- Data Preprocessing & Feature Engineering
-- CRISP-DM Methodology
-- Model Evaluation & Optimization
-- Data Visualization & BI (Power BI)
+- RAG (Retrieval-Augmented Generation) & IA locale avec **Ollama (Llama 3)**
+- Fine-Tuning & Prompt Engineering
+- OCR, OpenAI API
+- Classification d'images (TensorFlow, Jupyter)
 
----
-
-## 🏗 Backend & Architecture
-
+## 🏗 Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,django,dotnet,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,django,dotnet,cs" />
 </p>
 
-- Spring Boot / Spring Security
-- RESTful APIs
-- Microservices Architecture
-- JWT Authentication
-- Database Modeling
-- Clean Architecture
+- Spring Boot (Java) · Node.js · Django (Python) · ASP.NET MVC (C#)
+- Architecture Microservices (Spring Cloud, Eureka, Gateway, Config Server, OpenFeign)
+- REST APIs · Authentification JWT · Contrôle d'accès RBAC
 
----
-
-## 🌐 Frontend Engineering
-
+## 🌐 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,react,javascript,flutter" />
 </p>
 
-- Responsive Design
-- UI/UX Integration
-- Frontend-Backend Communication
+- Angular · React.js · JavaScript
+- Flutter
 
----
-
-## 🚀 DevOps & Infrastructure
-
+## 🗄 Bases de données
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure" />
+<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb"/>
 </p>
 
-- Docker & Containerization
-- CI/CD Concepts
-- Linux Environment
-- Version Control & Collaboration
+- MySQL · Oracle · SQL Server · MongoDB
+- Sequelize · Modélisation UML / Merise
+
+## 🚀 DevOps & Outils
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure,postman,vscode,idea" />
+</p>
+
+- Docker & Docker Compose · CI/CD · Monitoring (Actuator)
+- Git/GitHub · Postman · IntelliJ IDEA · VS Code
+- Méthodologie Agile Scrum
 
 ---
 
-# 🧩 ENGINEERING PRINCIPLES
+# 💼 EXPÉRIENCES CLÉS
 
-- 🔒 Secure by Design  
-- 📈 Scalable by Architecture  
-- 🧠 Data-Driven Decisions  
-- 🧼 Clean & Maintainable Code  
-- 🔁 Continuous Learning & Optimization  
+**🏛 Ministère de l'Investissement, de la Convergence (MICEPP)** — *2026, 5 mois*
+Conception d'une solution complète de **Gouvernance, Risques et Conformité (sGRC)** couvrant 9 modules fonctionnels, avec module d'IA locale (Ollama + RAG) et sécurité avancée (JWT, RBAC 10 rôles, soft delete).
+
+**🏛 Ministère de l'Économie et des Finances** — *2025, 3 mois*
+Plateforme de gestion des candidatures aux concours administratifs (Spring Boot, MySQL, Thymeleaf).
+
+**🏛 Ministère de la Justice** — *2024, 2 mois*
+Application web de gestion des ordres de mission (Django, Angular).
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 🧩 PROJETS
+
+### 🚚 Plateforme de Livraison — Architecture Microservices
+Spring Cloud · Eureka · Gateway · Config Server · REST API · JWT · Docker · CI/CD
+
+### 🖼 Système de Classification d'Images
+Machine Learning · TensorFlow · Traitement de données Python · Fine-Tuning
+
+---
+
+# 🎓 CERTIFICATIONS
+- Introduction to Containers with Docker, Kubernetes — *IBM*
+- Machine Learning with Python — *IBM*
+- Virtual Networks in Azure — *Whizlabs*
+
+---
+
+# 📊 STATISTIQUES GITHUB
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahdi-chk&show_icons=true&theme=github_dark&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
@@ -110,10 +118,8 @@ Mon objectif est de concevoir des solutions intelligentes, robustes et orientée
 
 <div align="center">
 
-### 🚀 "Transforming data into intelligence. Engineering systems that scale."
+### 🚀 "Concevoir des systèmes intelligents, sécurisés et scalables."
+
+❤️ Merci d'être passé·e ! N'hésite pas à explorer mes projets, **laisser une étoile ⭐**, et me contacter pour collaborer 💡
 
 </div>
-
-## ❤️ Merci d’être passé·e !
-
-N’hésite pas à explorer mes projets, **à laisser une étoile ⭐**, et à me contacter si tu veux collaborer ou partager des idées 💡!
